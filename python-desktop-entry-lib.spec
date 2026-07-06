@@ -10,6 +10,10 @@ BuildRequires:	python
 BuildSystem:	python
 BuildArch:	noarch
 
+BuildRequires:  python%{pyver}dist(pip)
+BuildRequires:  python%{pyver}dist(setuptools)
+BuildRequires:  python%{pyver}dist(wheel)
+
 %description
 A library for working with .desktop files
 
