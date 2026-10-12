@@ -1,6 +1,6 @@
 Name:		python-desktop-entry-lib
 Version:	5.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/d/desktop_entry_lib/desktop_entry_lib-%{version}.tar.gz
 Summary:	A library for working with .desktop files
 URL:		https://pypi.org/project/desktop-entry-lib/
